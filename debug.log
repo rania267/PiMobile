@@ -1,0 +1,162 @@
+[0324/171741.652:INFO:CONSOLE(2)] "jQuery.Deferred exception: homeSlider.owlCarousel is not a function TypeError: homeSlider.owlCarousel is not a function
+    at initHomeSlider (http://localhost:8000/js/custom.js:101:15)
+    at HTMLDocument.<anonymous> (http://localhost:8000/js/custom.js:46:2)
+    at j (http://localhost:8000/js/jquery-3.2.1.min.js:2:29999)
+    at k (http://localhost:8000/js/jquery-3.2.1.min.js:2:30313) undefined", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/171741.653:INFO:CONSOLE(2)] "jQuery.Deferred exception: homeSlider.owlCarousel is not a function TypeError: homeSlider.owlCarousel is not a function
+    at initHomeSlider (http://localhost:8000/js/custom.js:101:15)
+    at HTMLDocument.<anonymous> (http://localhost:8000/js/custom.js:46:2)
+    at j (http://localhost:8000/js/jquery-3.2.1.min.js:2:29999)
+    at k (http://localhost:8000/js/jquery-3.2.1.min.js:2:30313) undefined", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/171741.657:INFO:CONSOLE(2)] "Uncaught TypeError: homeSlider.owlCarousel is not a function", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/171741.657:INFO:CONSOLE(2)] "Uncaught TypeError: homeSlider.owlCarousel is not a function", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/171741.840:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'http://127.0.0.1:8000/_wdt/949a8d' from origin 'http://localhost:8000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.", source: http://localhost:8000/ (0)
+[0324/171742.090:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'http://127.0.0.1:8000/_wdt/7f421c' from origin 'http://localhost:8000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.", source: http://localhost:8000/ (0)
+[0324/193400.911:INFO:CONSOLE(2)] "jQuery.Deferred exception: homeSlider.owlCarousel is not a function TypeError: homeSlider.owlCarousel is not a function
+    at initHomeSlider (http://localhost:8000/js/custom.js:101:15)
+    at HTMLDocument.<anonymous> (http://localhost:8000/js/custom.js:46:2)
+    at j (http://localhost:8000/js/jquery-3.2.1.min.js:2:29999)
+    at k (http://localhost:8000/js/jquery-3.2.1.min.js:2:30313) undefined", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193400.912:INFO:CONSOLE(2)] "jQuery.Deferred exception: homeSlider.owlCarousel is not a function TypeError: homeSlider.owlCarousel is not a function
+    at initHomeSlider (http://localhost:8000/js/custom.js:101:15)
+    at HTMLDocument.<anonymous> (http://localhost:8000/js/custom.js:46:2)
+    at j (http://localhost:8000/js/jquery-3.2.1.min.js:2:29999)
+    at k (http://localhost:8000/js/jquery-3.2.1.min.js:2:30313) undefined", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193400.916:INFO:CONSOLE(2)] "Uncaught TypeError: homeSlider.owlCarousel is not a function", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193400.916:INFO:CONSOLE(2)] "Uncaught TypeError: homeSlider.owlCarousel is not a function", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193401.109:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'http://127.0.0.1:8000/_wdt/949a8d' from origin 'http://localhost:8000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.", source: http://localhost:8000/ (0)
+[0324/193401.320:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'http://127.0.0.1:8000/_wdt/9f4960' from origin 'http://localhost:8000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.", source: http://localhost:8000/ (0)
+[0324/193640.697:INFO:CONSOLE(2)] "jQuery.Deferred exception: homeSlider.owlCarousel is not a function TypeError: homeSlider.owlCarousel is not a function
+    at initHomeSlider (http://localhost:8000/js/custom.js:101:15)
+    at HTMLDocument.<anonymous> (http://localhost:8000/js/custom.js:46:2)
+    at j (http://localhost:8000/js/jquery-3.2.1.min.js:2:29999)
+    at k (http://localhost:8000/js/jquery-3.2.1.min.js:2:30313) undefined", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193640.697:INFO:CONSOLE(2)] "jQuery.Deferred exception: homeSlider.owlCarousel is not a function TypeError: homeSlider.owlCarousel is not a function
+    at initHomeSlider (http://localhost:8000/js/custom.js:101:15)
+    at HTMLDocument.<anonymous> (http://localhost:8000/js/custom.js:46:2)
+    at j (http://localhost:8000/js/jquery-3.2.1.min.js:2:29999)
+    at k (http://localhost:8000/js/jquery-3.2.1.min.js:2:30313) undefined", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193640.701:INFO:CONSOLE(2)] "Uncaught TypeError: homeSlider.owlCarousel is not a function", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193640.701:INFO:CONSOLE(2)] "Uncaught TypeError: homeSlider.owlCarousel is not a function", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193640.882:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'http://127.0.0.1:8000/_wdt/949a8d' from origin 'http://localhost:8000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.", source: http://localhost:8000/ (0)
+[0324/193641.082:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'http://127.0.0.1:8000/_wdt/30d717' from origin 'http://localhost:8000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.", source: http://localhost:8000/ (0)
+[0324/193721.773:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://m.youtube.com/watch?v=N-N4ldA0lgA (0)
+[0324/193721.774:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://m.youtube.com/watch?v=N-N4ldA0lgA (0)
+[0324/193721.792:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://m.youtube.com/watch?v=N-N4ldA0lgA (0)
+[0324/193721.792:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://m.youtube.com/watch?v=N-N4ldA0lgA (0)
+[0324/193721.848:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0324/193721.866:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 3
+[0324/193721.921:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 11
+[0324/193829.703:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://m.youtube.com/watch?v=N-N4ldA0lgA (0)
+[0324/193829.703:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://m.youtube.com/watch?v=N-N4ldA0lgA (0)
+[0324/193829.718:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://m.youtube.com/watch?v=N-N4ldA0lgA (0)
+[0324/193829.718:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://m.youtube.com/watch?v=N-N4ldA0lgA (0)
+[0324/193829.759:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 11
+[0324/193915.059:INFO:CONSOLE(2)] "jQuery.Deferred exception: homeSlider.owlCarousel is not a function TypeError: homeSlider.owlCarousel is not a function
+    at initHomeSlider (http://localhost:8000/js/custom.js:101:15)
+    at HTMLDocument.<anonymous> (http://localhost:8000/js/custom.js:46:2)
+    at j (http://localhost:8000/js/jquery-3.2.1.min.js:2:29999)
+    at k (http://localhost:8000/js/jquery-3.2.1.min.js:2:30313) undefined", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193915.072:INFO:CONSOLE(2)] "jQuery.Deferred exception: homeSlider.owlCarousel is not a function TypeError: homeSlider.owlCarousel is not a function
+    at initHomeSlider (http://localhost:8000/js/custom.js:101:15)
+    at HTMLDocument.<anonymous> (http://localhost:8000/js/custom.js:46:2)
+    at j (http://localhost:8000/js/jquery-3.2.1.min.js:2:29999)
+    at k (http://localhost:8000/js/jquery-3.2.1.min.js:2:30313) undefined", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193915.075:INFO:CONSOLE(2)] "Uncaught TypeError: homeSlider.owlCarousel is not a function", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193915.075:INFO:CONSOLE(2)] "Uncaught TypeError: homeSlider.owlCarousel is not a function", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193915.243:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'http://127.0.0.1:8000/_wdt/949a8d' from origin 'http://localhost:8000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.", source: http://localhost:8000/ (0)
+[0324/193915.441:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'http://127.0.0.1:8000/_wdt/dd7115' from origin 'http://localhost:8000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.", source: http://localhost:8000/ (0)
+[0324/193955.063:INFO:CONSOLE(2)] "jQuery.Deferred exception: homeSlider.owlCarousel is not a function TypeError: homeSlider.owlCarousel is not a function
+    at initHomeSlider (http://localhost:8000/js/custom.js:101:15)
+    at HTMLDocument.<anonymous> (http://localhost:8000/js/custom.js:46:2)
+    at j (http://localhost:8000/js/jquery-3.2.1.min.js:2:29999)
+    at k (http://localhost:8000/js/jquery-3.2.1.min.js:2:30313) undefined", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193955.074:INFO:CONSOLE(2)] "jQuery.Deferred exception: homeSlider.owlCarousel is not a function TypeError: homeSlider.owlCarousel is not a function
+    at initHomeSlider (http://localhost:8000/js/custom.js:101:15)
+    at HTMLDocument.<anonymous> (http://localhost:8000/js/custom.js:46:2)
+    at j (http://localhost:8000/js/jquery-3.2.1.min.js:2:29999)
+    at k (http://localhost:8000/js/jquery-3.2.1.min.js:2:30313) undefined", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193955.078:INFO:CONSOLE(2)] "Uncaught TypeError: homeSlider.owlCarousel is not a function", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193955.078:INFO:CONSOLE(2)] "Uncaught TypeError: homeSlider.owlCarousel is not a function", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/193955.232:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'http://127.0.0.1:8000/_wdt/949a8d' from origin 'http://localhost:8000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.", source: http://localhost:8000/ (0)
+[0324/193955.452:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'http://127.0.0.1:8000/_wdt/200b29' from origin 'http://localhost:8000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.", source: http://localhost:8000/ (0)
+[0324/194044.035:INFO:CONSOLE(2)] "jQuery.Deferred exception: homeSlider.owlCarousel is not a function TypeError: homeSlider.owlCarousel is not a function
+    at initHomeSlider (http://localhost:8000/js/custom.js:101:15)
+    at HTMLDocument.<anonymous> (http://localhost:8000/js/custom.js:46:2)
+    at j (http://localhost:8000/js/jquery-3.2.1.min.js:2:29999)
+    at k (http://localhost:8000/js/jquery-3.2.1.min.js:2:30313) undefined", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/194044.036:INFO:CONSOLE(2)] "jQuery.Deferred exception: homeSlider.owlCarousel is not a function TypeError: homeSlider.owlCarousel is not a function
+    at initHomeSlider (http://localhost:8000/js/custom.js:101:15)
+    at HTMLDocument.<anonymous> (http://localhost:8000/js/custom.js:46:2)
+    at j (http://localhost:8000/js/jquery-3.2.1.min.js:2:29999)
+    at k (http://localhost:8000/js/jquery-3.2.1.min.js:2:30313) undefined", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/194044.040:INFO:CONSOLE(2)] "Uncaught TypeError: homeSlider.owlCarousel is not a function", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/194044.040:INFO:CONSOLE(2)] "Uncaught TypeError: homeSlider.owlCarousel is not a function", source: http://localhost:8000/js/jquery-3.2.1.min.js (2)
+[0324/194044.232:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'http://127.0.0.1:8000/_wdt/949a8d' from origin 'http://localhost:8000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.", source: http://localhost:8000/ (0)
+[0324/194044.465:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'http://127.0.0.1:8000/_wdt/e75d14' from origin 'http://localhost:8000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.", source: http://localhost:8000/ (0)
+[0401/030030.293:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://m.youtube.com/watch?v=fujboh-W7Sk (0)
+[0401/030030.325:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://m.youtube.com/watch?v=fujboh-W7Sk (0)
+[0401/034146.339:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://m.youtube.com/watch?v=fujboh-W7Sk (0)
+[0401/034146.340:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://m.youtube.com/watch?v=fujboh-W7Sk (0)
+[0401/034146.376:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 19
+[0429/195206.602:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://m.youtube.com/watch?v=to4IDjJVays (0)
+[0429/195206.602:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://m.youtube.com/watch?v=to4IDjJVays (0)
+[0429/195206.669:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 17
+[0429/195230.112:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0429/195230.115:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0429/195230.279:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0429/195230.279:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0429/195231.795:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0429/195231.796:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0429/195232.038:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0429/195232.038:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0505/043332.431:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/043332.466:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/043332.480:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0505/043332.546:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0505/043516.716:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/043516.716:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/043846.670:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/043846.670:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/043846.698:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 19
+[0505/231447.320:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/231447.320:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/231447.346:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/231447.346:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/231447.472:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0505/231447.496:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0505/231447.566:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 11
+[0505/231652.200:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 17
+[0505/231652.299:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 19
+[0505/234204.026:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/234204.026:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/234204.048:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/234204.049:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0505/234204.243:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0505/234204.341:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 11
+[0505/234204.392:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 3
+[0506/004740.216:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0506/004740.217:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0506/004740.262:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0506/004740.263:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0506/004740.502:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0506/004740.503:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 11
+[0506/004740.520:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0506/004740.766:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 3
+[0506/012333.605:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0506/012333.606:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0506/012333.651:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0506/012333.651:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0506/012333.803:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0506/012333.946:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 11
+[0506/012334.059:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0506/012334.094:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 3
+[0506/020245.644:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0506/020245.644:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://m.youtube.com/watch?v=EVQS0RQqT1I (0)
+[0506/020245.695:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 3
+[0506/020245.961:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0506/020246.280:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 15
+[0506/020301.439:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 35
+[0506/020302.298:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 37
+[0506/020302.298:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 39
+[0506/020302.298:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 41
